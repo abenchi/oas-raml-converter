@@ -1,4 +1,4 @@
-#!/usr/bin/env node --harmony
+#!/usr/bin/env node
 const program = require('commander');
 const util = require('./util');
 const formats = require('../formats');
